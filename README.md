@@ -1,5 +1,13 @@
-# basic-api-product-springBoot 🍃
+# Basic API de Productos con Spring Boot y MySQL 🍃
 
-Esta es una API REST básica para la gestión de productos. El proyecto se ha desarrollado con Spring Boot y Java con el propósito de aprender y practicar las tecnologías y conceptos relacionados con el desarrollo de aplicaciones web.
+## Descripción
 
+Esta es una API REST básica para la gestión de productos desarrollada con Spring Boot y MySQL.
+Donde se realizo un crud con el fin de aprender , conocer y practicar mas sobre este framework
+
+## Tecnologías Utilizadas
+
+- Spring Boot 3.1.5
+- Java 17
+- MySQL
 
